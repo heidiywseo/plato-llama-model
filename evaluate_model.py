@@ -4,12 +4,6 @@ from dataset import TextDataset
 from model import llamaModel, ModelArgs
 import pickle
 
-import torch
-from torch.utils.data import DataLoader
-from dataset import TextDataset
-from model import llamaModel, ModelArgs
-import pickle
-
 with open('split_data.pkl', 'rb') as f:
     _, _, test_data, pad_id = pickle.load(f)
 
