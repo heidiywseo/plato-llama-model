@@ -11,3 +11,4 @@ This project was completed in reference to these sources:
 *   https://medium.com/@sayedebad.777/training-the-llama-model-from-scratch-4100d35fa622
 *   https://www.youtube.com/watch?v=Mn_9W1nCFLo
 
+![plato-llama](plato-llama.webp)
